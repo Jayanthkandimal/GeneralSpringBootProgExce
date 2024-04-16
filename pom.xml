@@ -22,9 +22,9 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>17</java.version>
-		<sonar.host.url>http://20.197.10.112:9000/</sonar.host.url>
+		<sonar.host.url>http://20.193.141.175:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
-                <sonar.password>Pradeepa@17</sonar.password>
+                <sonar.password>Jayanth@0941</sonar.password>
       
 	</properties>
 
